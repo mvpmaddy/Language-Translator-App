@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667318392490",
+    "project_id": "language-translator-app-a091e",
+    "storage_bucket": "language-translator-app-a091e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667318392490:android:cb8549a1939c9e487622d3",
+        "android_client_info": {
+          "package_name": "com.madan_patil.languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667318392490-4t48nnudunjdf5gk4qpie0p3qglqmg0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDVZSksbpBuQIJbv9VWKHtYxie18RlF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667318392490-4t48nnudunjdf5gk4qpie0p3qglqmg0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
